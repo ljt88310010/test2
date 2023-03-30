@@ -1,0 +1,21 @@
+We also updated the review templates along with the procedure. To comply with the latest citi internal template, we changed the font and format for all of our templates as well.
+
+For PBWM, we have four templates, model review, borrowed usage, additional analysis, and AI non-model object review templates. 
+There is no material changes for borrowed usage and additiaonal anaysis. Its just some formatting adjustment.
+In the model review, we added tier A and fairness in the first page due to the changes in the procedure,
+And added a new question about the channel the model uses to contact customers, like direct mail or digital channels.
+Added new page here to accommodate language models. (if the model is using NLP technique, we may ask for the data source, type of text analyzd, key words and etc.
+And we removed the checklist and some redundant questions in the business justification as well
+
+Like we mentioned above, because the ai-non-model-object review has been incorporated in our procedure, we created a separate template for the AI non-model object review. The questions in this template are tailored to cover a broad types of objects. Like we would ask if the object is a static ai, or dynamic ai object, and what is the package or transformer used in the object.
+
+Ok, that was for PBWM. So we have separate model and object review templates for ICG as well. 
+The questions in ICG model review template is tailored specifically for icg business. For example, in question b, we would ask if the model used to determine client's pricing and fee. And the icg-specific example we would like business to provide about the model variables
+
+The template for icg ai non-model-object review will be published shortly.
+
+You can also find all the templates on the model working group sharepoint
+
+And we will soon release the attestation for ai non-model-objects as well once we complete the formatting thing.
+
+Does anyone have any questions about the templates
